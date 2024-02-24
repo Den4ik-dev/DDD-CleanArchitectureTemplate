@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eZ//Ih4/UUjDeWhmf0sCJTfpAaoSxFW9Hpfi9F8TmcepK6sXYAS+Uf5HnDP2G8870/eTAiA1J3XEa1yXRXMy5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\StokovAdmin\\Desktop\\clean arhitecture\\example\\test\\Solution3\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\StokovAdmin\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\StokovAdmin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\StokovAdmin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
